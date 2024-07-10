@@ -1,1 +1,2 @@
---platform=linux/amd64 nvidia/cuda:11.8.0-runtime-ubi8
+--platform=linux/amd64 nvidia/cuda:12.4.1-devel-ubuntu22.04
+--platform=linux/amd64 nvidia/cuda:12.4.1-base-ubuntu22.04
