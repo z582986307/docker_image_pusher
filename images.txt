@@ -1,1 +1,1 @@
-r8.im/cuuupid/glm-4v-9b@sha256:69196a237cdc310988a4b12ad64f4b36d10189428c19a18526af708546e1856f
+--platform=linux/amd64 python:3.11.9-slim
