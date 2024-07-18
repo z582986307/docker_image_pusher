@@ -1,1 +1,1 @@
-openmmlab/lmdeploy:latest
+michaelf34/infinity:latest
