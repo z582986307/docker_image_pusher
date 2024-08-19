@@ -1,3 +1,2 @@
-quay.io/prometheus/node-exporter:latest
-nvcr.io/nvidia/k8s/dcgm-exporter:3.3.7-3.5.0-ubuntu22.04
-utkuozdemir/nvidia_gpu_exporter:1.2.1
+ghcr.io/jim60105/whisperx:large-v3-zh
+ghcr.io/jim60105/whisperx:large-v3
