@@ -1,2 +1,1 @@
-ghcr.io/jim60105/whisperx:large-v3-zh
-ghcr.io/jim60105/whisperx:large-v3
+ghcr.io/jim60105/whisperx:no_model
