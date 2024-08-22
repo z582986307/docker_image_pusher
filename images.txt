@@ -1,1 +1,1 @@
-ghcr.io/jim60105/whisperx:no_model
+huggingface/transformers-pytorch-gpu:latest
