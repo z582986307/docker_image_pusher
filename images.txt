@@ -1,1 +1,1 @@
-huggingface/transformers-pytorch-gpu:latest
+ghcr.io/ai-dock/comfyui:latest-cuda
