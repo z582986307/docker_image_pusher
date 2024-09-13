@@ -1,1 +1,1 @@
-ghcr.io/ai-dock/comfyui:latest-cuda
+ghcr.io/plaggy/asrdiarization-server:latest
