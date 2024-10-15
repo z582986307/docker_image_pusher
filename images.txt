@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor:latest
+vllm/vllm-openai:latest
