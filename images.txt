@@ -1,1 +1,1 @@
-rqlove/videolingo:latest
+chenyme/chenyme-aavt:latest
