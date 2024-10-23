@@ -1,1 +1,1 @@
-chenyme/chenyme-aavt:latest
+momaek/case-server
