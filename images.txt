@@ -4,4 +4,4 @@ mysql:8.0
 openjdk:8
 elgalu/selenium
 quillo/zalenium
-SonicCloudOrg/sonic-server
+sonic-server
