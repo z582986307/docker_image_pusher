@@ -4,8 +4,3 @@ mysql:8.0
 openjdk:8
 elgalu/selenium
 quillo/zalenium
-sonicorg/sonic-server-eureka:1.4.0
-sonicorg/sonic-server-gateway:1.4.0
-sonicorg/sonic-server-controller:1.4.0
-sonicorg/sonic-server-folder:1.4.0
-sonicorg/sonic-client-web:1.4.0
