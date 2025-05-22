@@ -8,5 +8,3 @@ sonicorg/sonic-server-eureka
 sonicorg/sonic-server-gateway
 sonicorg/sonic-server-controller
 sonicorg/sonic-server-folder
-
-
